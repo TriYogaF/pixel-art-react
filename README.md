@@ -1,7 +1,7 @@
 <p align="center">
   <img width="400" src="screenshots/tree-pixelartcss.png">
 </p>
-<h1 align="center">Pixel Art to CSS</h1>
+<h1 align="center">Pixel Art to CSS | PIXEL ART TO CSS</h1>
 <p align="center">
   <h3 align="center">  
     Animate pixel art and get CSS
