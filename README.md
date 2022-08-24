@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200" src="screenshots/tree-pixelartcss.png">
+  <img width="400" src="screenshots/tree-pixelartcss.png">
 </p>
 <h1 align="center">Pixel Art to CSS</h1>
 <p align="center">
@@ -23,7 +23,7 @@ Furthermore, you can download your work in different formats such as a static im
 :pencil2: [Try it out](https://www.pixelartcss.com/)
 
 <p align="center">
-  <img width="600" src="screenshots/screenshot-potion.png">
+  <img width="400" src="screenshots/screenshot-potion.png">
 </p>
 
 **Pixel Art to CSS** aims to be an intuitive tool by its simplicity, however it is equipped with a wide range of features: customize your color palette, go back and forth in time, modify animation settings, save or load your projects, among others.
